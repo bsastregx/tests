@@ -1,0 +1,22 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "A repo for testing purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsastregx/tests.git"
+  },
+  "author": "Bruno Sastre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsastregx/tests/issues"
+  },
+  "homepage": "https://github.com/bsastregx/tests#readme",
+  "dependencies": {
+    "@genexus/gemini": "^0.1.324"
+  }
+}
