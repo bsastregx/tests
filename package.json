@@ -2,10 +2,10 @@
   "name": "tests",
   "version": "1.0.0",
   "description": "A repo for testing purposes",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-rollup": "rollup --config rollup/rollup.config.js --bundleConfigAsCjs",
+    "build-rollup": "rollup --config rollup.config.js",
     "watch-rollup": "rollup --config -w"
   },
   "repository": {
