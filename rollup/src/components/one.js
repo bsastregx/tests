@@ -1,0 +1,1 @@
+export var one = "one";

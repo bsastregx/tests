@@ -1,5 +1,5 @@
 export default {
-  input: ["./src/components/gwds-button.js", "./src/components/gwds-icon.js"],
+  input: ".src/components/test.js",
   output: {
     file: "bundle.js",
     format: "cjs",
