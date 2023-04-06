@@ -1,7 +1,7 @@
 export default {
-  input: "./src/components/test.js",
+  input: ["./src/components/test.js", "./src/components/one.js", "./src/components/two.js"],
   output: {
-    file: "bundle.js",
-    format: "cjs",
+    dir: "./build",
+    format: "es",
   },
 };
